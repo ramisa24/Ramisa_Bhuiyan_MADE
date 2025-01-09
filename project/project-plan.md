@@ -64,5 +64,6 @@ Here’s the breakdown of work packages for my project:
 
 9. Report Writing and Presentation
    - Transform the results into a straightforward report that includes graphs/ charts and recommendations.
+     
    – Develop a presentation that is to be delivered to discuss overall results for the particular field of study and possible policies.
 
