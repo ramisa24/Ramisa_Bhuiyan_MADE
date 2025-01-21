@@ -1,3 +1,26 @@
+# A Data-Driven Investigation of Crime and Arrest Disparities
+
+## Main Question:
+Which neighborhoods or regions have the highest disparities between crime reports and arrests?
+
+## Description:
+In urban areas, disparities between crime reports and arrests can indicate potential issues in law enforcement practices, resource allocation, or systemic biases. This report investigates which neighborhoods or regions have the highest disparities between crime reports and arrests in a specific city. By analyzing these disparities, we aim to highlight areas that may require additional attention or resources from law enforcement agencies
+
+## Data Source:
+### Crime Data:
+- URL: https://data.lacity.org/api/views/2nrs-mtv8/rows.csv?accessType=DOWNLOAD
+- Content: This dataset contains records of reported crimes in Los Angeles, including descriptions, locations, dates, and areas.
+- Data Structure: Columns for Crm Cd Desc, Date Rptd, Vict Sex, LOCATION, AREA NAME, DR_NO
+- License Information: Open licensed CC0 1.0 Universal
+
+### Arrest Data:
+- URL: https://data.lacity.org/api/views/amvf-fr72/rows.csv?accessType=DOWNLOAD
+- Content: This dataset includes records of arrests made in Los Angeles, providing details like arrest types, charges, locations, and dates.
+- Data Structure: Columns for Charge, Arrest Date, Arrest Type Code, Charge Description, Location, Area Name, Report ID
+- License Information: Open licensed CC0 1.0 Universal
+
+
+
 # Methods of Advanced Data Engineering Template Project
 
 This template project provides some structure for your open data project in the MADE module at FAU.
